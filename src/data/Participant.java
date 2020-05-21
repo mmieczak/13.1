@@ -7,6 +7,7 @@ public class Participant{
     private String nick;
     private int result;
 
+
     public Participant(String name, String nick, int result) {
         this.name = name;
         this.nick = nick;
