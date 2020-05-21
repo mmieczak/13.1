@@ -2,7 +2,7 @@ package data;
 
 import java.util.Comparator;
 
-public class Participant implements Comparator<Participant>{
+public class Participant{
     private String name;
     private String nick;
     private int result;
@@ -46,8 +46,4 @@ public class Participant implements Comparator<Participant>{
                 '}';
     }
 
-    @Override
-    public int compare(Participant o1, Participant o2) {
-        return 0;
-    }
 }
