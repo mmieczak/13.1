@@ -1,0 +1,20 @@
+Give details for another participant (or type: stop)
+ala ala ala 100
+Give details for another participant (or type: stop)
+bo bo ala 100
+Give details for another participant (or type: stop)
+co co ala 10
+Give details for another participant (or type: stop)
+do do ala 900
+Give details for another participant (or type: stop)
+ha ha ha 1
+Give details for another participant (or type: stop)
+gu gu ala 500
+Give details for another participant (or type: stop)
+stop
+SORTING ORDER
+A.Points -> Nick -> Name
+B.Points -> Name -> Nick
+C.Nick -> Points -> Name
+Choose your preferred sorting order A/B/C: A
+Competition{Name='Chess Masters', date='20200601', participants=[Participant{name='do do', nick='ala', result=900}, Participant{name='gu gu', nick='ala', result=500}, Participant{name='bo bo', nick='ala', result=100}, Participant{name='ala ala', nick='ala', result=100}, Participant{name='co co', nick='ala', result=10}, Participant{name='ha ha', nick='ha', result=1}]}
